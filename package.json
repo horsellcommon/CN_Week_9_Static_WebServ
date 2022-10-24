@@ -1,0 +1,22 @@
+{
+  "name": "web_servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horsellcommon/CN_Week_9_Static_WebServ.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horsellcommon/CN_Week_9_Static_WebServ/issues"
+  },
+  "homepage": "https://github.com/horsellcommon/CN_Week_9_Static_WebServ#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
